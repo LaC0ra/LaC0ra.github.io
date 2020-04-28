@@ -1,0 +1,234 @@
+<style>
+
+body {
+  width: 100%;
+  height: auto;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+.topnav a {
+    font-family: 'Pacifico', cursive;
+    float: left;
+    color: red;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 150px;
+}
+.menu {
+  padding-top: 83px;
+  padding-left: 110px;
+  font-size: 20px;
+  font-family: 'Ubuntu', cursive;
+  position: relative;
+}
+.menu a {
+  text-decoration: none;
+  color: #008ae6;
+}
+.menu a:visited {
+  color: #008ae6;
+
+}
+table, td {
+  border: 2px solid #606060;
+  border-collapse: collapse;
+  padding: 13px 140px 13px 20px;
+}
+.upimg {
+  width: 56%;
+  position: absolute;
+  right: 15%;
+  top: 12%;
+  height: 50%;
+
+}
+.produkt1 .obrazek_p {
+  width: 24%;
+  height: 24%;
+}
+.produkt1 {
+  left: 29%;
+  top: 67%;
+  position: absolute;
+}
+.produkt1 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt1 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+
+.produkt2 {
+  left: 48%;
+  top: 67%;
+  position: absolute;
+}
+.produkt2 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt2 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+
+.produkt2 .obrazek_p {
+  width: 33%;
+  height: 24%;
+}
+.produkt3 {
+  left: 67%;
+  top: 67%;
+  position: absolute;
+}
+.produkt3 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt3 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+.produkt3 .obrazek_p {
+  width: 44%;
+  height: 40%;
+}
+.produkt4 {
+  left: 67%;
+  top: 120%;
+  position: absolute;
+}
+.produkt4 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt4 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+
+.produkt4 .obrazek_p {
+  width: 48%;
+  height: 40%;
+}
+.produkt5 {
+  left: 48%;
+  top: 120%;
+  position: absolute;
+}
+.produkt5 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt5 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+
+.produkt5 .obrazek_p {
+  width: 33%;
+  height: 24%;
+}
+.produkt6 .obrazek_p {
+  width: 24%;
+  height: 24%;
+}
+.produkt6 {
+  left: 29%;
+  top: 120%;
+  position: absolute;
+}
+.produkt6 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt6 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+
+.produkt7 .obrazek_p {
+  width: 20%;
+  height: 20%;
+}
+.produkt7 {
+  left: 29%;
+  top: 67%;
+  position: absolute;
+}
+.produkt7 h1 {
+  font-family: 'Ubuntu', cursive;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.produkt7 p {
+  font-family: 'Ubuntu', cursive;
+
+}
+.objednat {
+  text-decoration: none;
+  border: 2px solid #606060;
+  border-collapse: collapse;
+  padding: 5px 5px 5px 5px;
+  font-family: 'Ubuntu', cursive;
+  background-color: #606060;
+  color: red;
+}
+h2 {
+  font-family: 'Ubuntu', cursive;
+  margin-left: 10px;
+  margin-top: 0;
+  font-size: 18px;
+}
+.form {
+  font-family: 'Ubuntu', cursive;
+  margin: 30px;
+  padding-top: 3px;
+}
+.form p {
+  margin: 1px;
+}
+button {
+  background-color: #333;
+  border: none;
+  color: red;
+  padding: 11px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Ubuntu', cursive;
+  margin-left: 2em;
+}
+.dokonceni {
+  font-family: 'Ubuntu', cursive;
+  font-size: 30px;
+  margin-top: 6%;
+  margin-left: 4%;
+}
+.dokonceni a {
+  color: red;
+  text-decoration: none;
+}
+footer {
+  height: 38em;
+  width: auto;
+}
+.footer{
+  height: 65em;
+}
+</style>
